@@ -3,3 +3,13 @@
 Redmine is a flexible project management web application written using Ruby on Rails framework.
 
 More details can be found in the doc directory or on the official website http://www.redmine.org
+
+## Instalação
+
+Baixar a versao 2.7.2 do Ruby
+
+rodar bundle install
+
+rodar rails db:migration
+
+rodar bundle exec rails server
